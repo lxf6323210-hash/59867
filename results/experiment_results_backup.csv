@@ -1,0 +1,47 @@
+Timestamp,Image,Caption Type,Caption,Similarity,Qwen Verdict,Final Decision,Ground Truth
+2026-11-11T13:26:03,images\test.jpg,ORIGINAL,a cat sitting on a couch with a pink pillow,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:26:03,images\test.jpg,MODIFIED,a cat sitting on a couch with a pink tree,0.8806,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:41:37,images\car.jpg,ORIGINAL,the toyota camaro is a great car for the family,1.0,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,CORRECT
+2026-11-11T13:41:37,images\car.jpg,MODIFIED,the toyota camaro is a great bus for the family,0.8845,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:41:38,images\living_room.jpg,ORIGINAL,a living room with a couch and a coffee table,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:41:38,images\living_room.jpg,MODIFIED,a living room with a table and a coffee table,0.9295,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:41:40,images\person.jpg,ORIGINAL,a person riding a bike down a path,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:41:40,images\person.jpg,MODIFIED,a robot riding a bike down a path,0.8256,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:41:42,images\test.jpg,ORIGINAL,a cat sitting on a couch with a pink pillow,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:41:42,images\test.jpg,MODIFIED,a cat sitting on a table with a pink pillow,0.911,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:45:08,images\building.jpg,ORIGINAL,"the empire building in new york, new york, and the empire building in new york",1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:45:08,images\building.jpg,MODIFIED,"the empire car in new york, new york, and the empire building in new york",0.8913,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:45:10,images\car.jpg,ORIGINAL,the toyota camaro is a great car for the family,1.0,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,CORRECT
+2026-11-11T13:45:10,images\car.jpg,MODIFIED,the toyota camaro is a great bus for the family,0.8845,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:45:12,images\living_room.jpg,ORIGINAL,a living room with a couch and a coffee table,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:45:12,images\living_room.jpg,MODIFIED,a living street with a couch and a coffee table,0.7559,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:45:14,images\person.jpg,ORIGINAL,a person riding a bike down a path,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:45:14,images\person.jpg,MODIFIED,a robot riding a bike down a path,0.8256,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:45:16,images\test.jpg,ORIGINAL,a cat sitting on a couch with a pink pillow,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:45:16,images\test.jpg,MODIFIED,a cat sitting on a table with a pink pillow,0.911,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:51:15,images\building.jpg,ORIGINAL,"the empire building in new york, new york, and the empire building in new york",1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:51:15,images\building.jpg,MODIFIED,"the empire car in new york, new york, and the empire building in new york",0.8913,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:51:17,images\car.jpg,ORIGINAL,the toyota camaro is a great car for the family,1.0,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,CORRECT
+2026-11-11T13:51:17,images\car.jpg,MODIFIED,the toyota camaro is a great bus for the family,0.8845,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:51:19,images\living_room.jpg,ORIGINAL,a living room with a couch and a coffee table,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:51:19,images\living_room.jpg,MODIFIED,a living street with a couch and a coffee table,0.7559,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:51:21,images\person.jpg,ORIGINAL,a person riding a bike down a path,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:51:21,images\person.jpg,MODIFIED,a robot riding a bike down a path,0.8256,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:51:23,images\test.jpg,ORIGINAL,a cat sitting on a couch with a pink pillow,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:51:23,images\test.jpg,MODIFIED,a cat sitting on a table with a pink pillow,0.911,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:54:23,images\building.jpg,ORIGINAL,"the empire building in new york, new york, and the empire building in new york",1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:54:23,images\building.jpg,MODIFIED,"the empire car in new york, new york, and the empire building in new york",0.8913,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:54:25,images\car.jpg,ORIGINAL,the toyota camaro is a great car for the family,1.0,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,CORRECT
+2026-11-11T13:54:25,images\car.jpg,MODIFIED,the toyota camaro is a great bus for the family,0.8845,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:54:27,images\landscape.jpg,ORIGINAL,a lake with mountains in the background,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:54:27,images\landscape.jpg,MODIFIED,a lake with buildings in the background,0.7913,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:54:29,images\living_room.jpg,ORIGINAL,a living room with a couch and a coffee table,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:54:29,images\living_room.jpg,MODIFIED,a living room with a couch and a coffee couch,0.9578,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:54:30,images\person.jpg,ORIGINAL,a person riding a bike down a path,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:54:30,images\person.jpg,MODIFIED,a robot riding a bike down a path,0.8256,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:54:32,images\pizza.jpg,ORIGINAL,a pizza with pepperoni and pepperoni on it,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:54:32,images\pizza.jpg,MODIFIED,a cake with pepperoni and pepperoni on it,0.7444,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T13:54:34,images\sports.jpg,ORIGINAL,a soccer ball on the grass with a goal in the background,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:54:34,images\sports.jpg,MODIFIED,a soccer car on the grass with a goal in the background,0.8743,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T13:54:36,images\test.jpg,ORIGINAL,a cat sitting on a couch with a pink pillow,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T13:54:36,images\test.jpg,MODIFIED,a cat sitting on a table with a pink pillow,0.911,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR

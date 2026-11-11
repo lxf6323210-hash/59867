@@ -1,0 +1,15 @@
+Timestamp,Image,Caption Type,Caption,Similarity,Qwen Verdict,Final Decision,Ground Truth
+2026-11-11T14:08:35,images\building.jpg,ORIGINAL,"the empire building in new york, new york, and the empire building in new york",1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T14:08:35,images\building.jpg,MODIFIED,"the empire mountain in new york, new york, and the empire building in new york",0.9068,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T14:08:37,images\car.jpg,ORIGINAL,the toyota camaro is a great car for the family,1.0,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,CORRECT
+2026-11-11T14:08:37,images\car.jpg,MODIFIED,the toyota camaro is a great bicycle for the family,0.8578,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T14:08:39,images\living_room.jpg,ORIGINAL,a living room with a couch and a coffee table,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T14:08:39,images\living_room.jpg,MODIFIED,a living room with a couch and a coffee couch,0.9578,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T14:08:41,images\person.jpg,ORIGINAL,a person riding a bike down a path,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T14:08:41,images\person.jpg,MODIFIED,a robot riding a bike down a path,0.8256,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T14:08:43,images\pizza.jpg,ORIGINAL,a pizza with pepperoni and pepperoni on it,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T14:08:43,images\pizza.jpg,MODIFIED,a cake with pepperoni and pepperoni on it,0.7444,SUPPORTED,CAPTION SUPPORTED,ERROR
+2026-11-11T14:08:45,images\sports.jpg,ORIGINAL,a soccer ball on the grass with a goal in the background,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T14:08:45,images\sports.jpg,MODIFIED,a soccer shoe on the grass with a goal in the background,0.827,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
+2026-11-11T14:08:47,images\test.jpg,ORIGINAL,a cat sitting on a couch with a pink pillow,1.0,SUPPORTED,CAPTION SUPPORTED,CORRECT
+2026-11-11T14:08:47,images\test.jpg,MODIFIED,a cat sitting on a table with a pink pillow,0.911,NOT_SUPPORTED,POSSIBLE CAPTION ERROR,ERROR
