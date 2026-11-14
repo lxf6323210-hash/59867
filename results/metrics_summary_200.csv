@@ -1,0 +1,5 @@
+Analysis,Total,Predicted Correct,Predicted Error,Review,Decision Coverage,Comparable Records,Agreement,Disagreement,Agreement Rate
+Sentence-BERT,382,380,2,0,1.0,,,,
+Qwen VLM,382,187,195,0,1.0,,,,
+Combined System,382,187,195,0,1.0,,,,
+SBERT-Qwen Agreement,,,,,,382,189,193,0.49476439790575916
