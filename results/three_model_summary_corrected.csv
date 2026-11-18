@@ -1,0 +1,17 @@
+Metric,Value
+Total Records,382.0
+Comparable Visual Model Records,382.0
+Qwen-Llama Agreement,286.0
+Qwen-Llama Disagreement,96.0
+Qwen-Llama Agreement Rate (%),74.87
+SBERT High Similarity,380.0
+SBERT Low Similarity,2.0
+Qwen Supported,187.0
+Qwen Unsupported,195.0
+Qwen Uncertain,0.0
+Llama Supported,231.0
+Llama Unsupported,124.0
+Llama Uncertain,27.0
+Llama Invalid JSON,19.0
+Llama Contradictions,2.0
+Llama Successful Inferences,382.0
